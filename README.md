@@ -1,6 +1,6 @@
-# Proyectos DAW 2022
+# Proyectos DAW 22/23
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Web del IES Campanillas** (proyectos de fin de ciclo), en la convocatoria del año 2022.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Web del CPIFP MalagaTechPark ** (proyectos de fin de ciclo), en la convocatoria del año 2023.
 
 ## Requisitos y criterios a seguir
 

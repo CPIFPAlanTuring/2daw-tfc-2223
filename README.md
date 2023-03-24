@@ -22,23 +22,23 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Anteproyecto: lunes 10 de abril
 * Revisión (checkpoint): viernes 12 de mayo
 * Entrega de proyecto: miércoles 21 de junio
-* Exposiciones: jueves 22 y viernes 23 de junio de 2023
+* Exposiciones: por determinar, la semana del 26 de junio de 2023
 
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-Los días de las exposiciones serán el **jueves 22 y el viernes 23 de junio de 2023**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+Los días de las exposiciones serán el **por determinar, la semana del 26 de junio de 2023**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 <hr>
 
-### :calendar: jueves 22 de junio de 2023
+### :calendar: por determinar, la semana del 26 de junio de 2023
 
 
 
 * ...
 
 
-### :calendar: viernes 23 de junio de 2023
+### :calendar: por determinar, la semana del 26 de junio de 2023
 
 * ...
 

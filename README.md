@@ -17,6 +17,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Apellidos, Nombre - [Nombre del proyecto](https://github.com/nombre_del_repositorio)
 * Almellones Fernández, Álvaro - [DISJUALTO](https://github.com/aalmfer2001/proyectoFinal)
 * Muñoz Valenzuela, Miguel Ángel - [AgroAssist](https://github.com/miguelmunval/ProyectoFinal)
+* Sánchez Sánchez, María Eugenia - [TravelFree](https://github.com/mariasnchez/travelFree)
 
 
 

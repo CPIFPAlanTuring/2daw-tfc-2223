@@ -17,6 +17,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Apellidos, Nombre - [Nombre del proyecto](https://github.com/nombre_del_repositorio)
 * Almellones Fernández, Álvaro - [DISJUALTO](https://github.com/aalmfer2001/proyectoFinal)
 * Bittan Graells, Daniel - [DizManga](https://github.com/DanyBittan/DizManga)
+* Hitos Garcia, Esther - [SalonActualUnisex]((https://github.com/hitos-esther/SalonActualUnisex)
 * Mena Viñas, Julián - [Dreative](https://github.com/julianmenav/proyecto-final)
 * Moreno Alvarez, Carlos - [CostaClima](https://github.com/carlosalvarez13/ProyectoFinal)
 * Muñoz Valenzuela, Miguel Ángel - [AgroAssist](https://github.com/miguelmunval/ProyectoFinal)

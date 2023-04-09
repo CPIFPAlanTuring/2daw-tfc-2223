@@ -20,6 +20,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Mena Viñas, Julián - [Dreative](https://github.com/julianmenav/proyecto-final)
 * Moreno Alvarez, Carlos - [CostaClima](https://github.com/carlosalvarez13/ProyectoFinal)
 * Muñoz Valenzuela, Miguel Ángel - [AgroAssist](https://github.com/miguelmunval/ProyectoFinal)
+* Parrado Escribano, Juan manuel - [ScullyonShop](https://github.com/juanmaparrado/ScullyonShop-tfc)
 * Salmerón Robles, Gonzalo - [CookMood](https://github.com/gonzalosalmeron/proyecto-final)
 * Sánchez Sánchez, María Eugenia - [TravelFree](https://github.com/mariasnchez/travelFree)
 

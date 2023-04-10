@@ -27,7 +27,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Salmerón Robles, Gonzalo - [CookMood](https://github.com/gonzalosalmeron/proyecto-final)
 * Sánchez Sánchez, María Eugenia - [TravelFree](https://github.com/mariasnchez/travelFree)
 * Vargas García, Juan Antonio - [TankoMarks](https://github.com/juanantoniovargar/TankoMarks)
-* Hitos García, Esther - [Nombre](https://github.com/)
+* Hitos García, Esther - [Nombre](https://github.com/hitos-esther)
 
 
 

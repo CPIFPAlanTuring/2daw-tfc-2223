@@ -16,6 +16,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Apellidos, Nombre - [Nombre del proyecto](https://github.com/nombre_del_repositorio)
 * Almellones Fernández, Álvaro - [DISJUALTO](https://github.com/aalmfer2001/proyectoFinal)
+* Bautista Somosierra, Francisco Alberto [RETROHIFI](https://github.com/FranciscoBautistaSomo/proyectoFinal2DAW)
 * Bittan Graells, Daniel - [DizManga](https://github.com/DanyBittan/DizManga)
 * García Fernández, Matias José - [LiftUP](https://github.com/matgarfer499/ProyectoDAW)
 * Manso Pérez, Carlos - [CARloS](https://github.com/CarlosMansoPerez/ProyectoCARloS)

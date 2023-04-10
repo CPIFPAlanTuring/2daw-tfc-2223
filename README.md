@@ -18,6 +18,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Almellones Fernández, Álvaro - [DISJUALTO](https://github.com/aalmfer2001/proyectoFinal)
 * Bautista Somosierra, Francisco Alberto [RETROHIFI](https://github.com/FranciscoBautistaSomo/proyectoFinal2DAW)
 * Bittan Graells, Daniel - [DizManga](https://github.com/DanyBittan/DizManga)
+* Bravo Romo, Alfonso Jesús [Clinica Bravo] (https://github.com/AlfonsoJBR/Clinica-Bravo)
 * García Fernández, Matias José - [LiftUP](https://github.com/matgarfer499/ProyectoDAW)
 * Manso Pérez, Carlos - [CARloS](https://github.com/CarlosMansoPerez/ProyectoCARloS)
 * Martín Trujillo, Pablo - [OM Ilustraciones](https://github.com/PabloMartinTrujillo/OM-Ilustraciones)

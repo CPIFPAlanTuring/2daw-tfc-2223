@@ -30,6 +30,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Sánchez Sánchez, María Eugenia - [TravelFree](https://github.com/mariasnchez/travelFree)
 * Vargas García, Juan Antonio - [TankoMarks](https://github.com/juanantoniovargar/TankoMarks)
 * Hitos García, Esther - [SalonActualUnisex](https://github.com/hitos-esther/SalonActualUnisex)
+* Sánchez González, Hugo - [GoMovie!](https://github.com/hugosanchezg/proyectoFinalDAW)
 
 
 

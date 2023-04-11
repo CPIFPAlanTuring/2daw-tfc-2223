@@ -32,6 +32,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Hitos García, Esther - [SalonActualUnisex](https://github.com/hitos-esther/SalonActualUnisex)
 * Sánchez González, Hugo - [GoMovie!](https://github.com/hugosanchezg/proyectoFinalDAW)
 * Sánchez Rojas, Pablo - [GamesNow](https://github.com/psanroj268/GamesNow)
+* Aguilar Benítez, Ángel - [Mundo MotoRSport](https://github.com/AngelAguben/MundoMotoRSport)
 
 
 

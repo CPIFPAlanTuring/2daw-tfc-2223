@@ -16,13 +16,29 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Apellidos, Nombre - [Nombre del proyecto](https://github.com/nombre_del_repositorio)
 * Almellones Fernández, Álvaro - [DISJUALTO](https://github.com/aalmfer2001/proyectoFinal)
+* Bautista Somosierra, Francisco Alberto [RETROHIFI](https://github.com/FranciscoBautistaSomo/proyectoFinal2DAW)
 * Bittan Graells, Daniel - [DizManga](https://github.com/DanyBittan/DizManga)
+* García Fernández, Matias José - [LiftUP](https://github.com/matgarfer499/ProyectoDAW)
+* Manso Pérez, Carlos - [CARloS](https://github.com/CarlosMansoPerez/ProyectoCARloS)
+* Martín Trujillo, Pablo - [OM Ilustraciones](https://github.com/PabloMartinTrujillo/OM-Ilustraciones)
 * Mena Viñas, Julián - [Dreative](https://github.com/julianmenav/proyecto-final)
 * Moreno Alvarez, Carlos - [CostaClima](https://github.com/carlosalvarez13/ProyectoFinal)
+* Mostazo Gamez, Alejandro - [SportMeetUp](https://github.com/AlejandroMostazo/Proyecto_final_DAW)
 * Muñoz Valenzuela, Miguel Ángel - [AgroAssist](https://github.com/miguelmunval/ProyectoFinal)
+
+
+
+* Parrado Escribano, Juan Manuel - [ScullyonShop](https://github.com/juanmaparrado/ScullyonShop-tfc)
+
 * Ruiz Pérez, Raquel - [Paws](https://github.com/RaquelRuiz4/ProyectoPAWS)
 * Salmerón Robles, Gonzalo - [CookMood](https://github.com/gonzalosalmeron/proyecto-final)
 * Sánchez Sánchez, María Eugenia - [TravelFree](https://github.com/mariasnchez/travelFree)
+* Vargas García, Juan Antonio - [TankoMarks](https://github.com/juanantoniovargar/TankoMarks)
+* Hitos García, Esther - [SalonActualUnisex](https://github.com/hitos-esther/SalonActualUnisex)
+* Sánchez González, Hugo - [GoMovie!](https://github.com/hugosanchezg/proyectoFinalDAW)
+* Sánchez Rojas, Pablo - [GamesNow](https://github.com/psanroj268/GamesNow)
+* Aguilar Benítez, Ángel - [Mundo MotoRSport](https://github.com/AngelAguben/MundoMotoRSport)
+* Ríos González, José Antonio - [ProyectoLeChatAffame] (https://github.com/JoseAntonioRiosGonzalez/ProyectoLeChatAffame)
 
 
 

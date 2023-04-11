@@ -19,6 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Bautista Somosierra, Francisco Alberto [RETROHIFI](https://github.com/FranciscoBautistaSomo/proyectoFinal2DAW)
 * Bittan Graells, Daniel - [DizManga](https://github.com/DanyBittan/DizManga)
 * García Fernández, Matias José - [LiftUP](https://github.com/matgarfer499/ProyectoDAW)
+* Hernández Mangas, Ernesto - [ÑamÑam Rute](https://github.com/ehm4/ProyectoFinalDAW)
 * Manso Pérez, Carlos - [CARloS](https://github.com/CarlosMansoPerez/ProyectoCARloS)
 * Martín Trujillo, Pablo - [OM Ilustraciones](https://github.com/PabloMartinTrujillo/OM-Ilustraciones)
 * Mena Viñas, Julián - [Dreative](https://github.com/julianmenav/proyecto-final)
@@ -38,8 +39,8 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Sánchez González, Hugo - [GoMovie!](https://github.com/hugosanchezg/proyectoFinalDAW)
 * Sánchez Rojas, Pablo - [GamesNow](https://github.com/psanroj268/GamesNow)
 * Aguilar Benítez, Ángel - [Mundo MotoRSport](https://github.com/AngelAguben/MundoMotoRSport)
-* Ríos González, José Antonio - [ProyectoLeChatAffame] (https://github.com/JoseAntonioRiosGonzalez/ProyectoLeChatAffame)
-* Urbano Ruz, Alfonso - [UrbanShop] (https://github.com/aUrbano24/ProyectoFinal---2022-2023)
+* Ríos González, José Antonio - [ProyectoLeChatAffame](https://github.com/JoseAntonioRiosGonzalez/ProyectoLeChatAffame)
+* Urbano Ruz, Alfonso - [UrbanShop](https://github.com/aUrbano24/ProyectoFinal---2022-2023)
 
 
 ## 📝 Fechas a tener en cuenta

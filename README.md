@@ -39,7 +39,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Sánchez Rojas, Pablo - [GamesNow](https://github.com/psanroj268/GamesNow)
 * Aguilar Benítez, Ángel - [Mundo MotoRSport](https://github.com/AngelAguben/MundoMotoRSport)
 * Ríos González, José Antonio - [ProyectoLeChatAffame] (https://github.com/JoseAntonioRiosGonzalez/ProyectoLeChatAffame)
-
+* Urbano Ruz, Alfonso - [UrbanShop] (https://github.com/aUrbano24/ProyectoFinal---2022-2023)
 
 
 ## 📝 Fechas a tener en cuenta

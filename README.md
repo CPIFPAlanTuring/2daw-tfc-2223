@@ -21,6 +21,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * García Fernández, Matias José - [LiftUP](https://github.com/matgarfer499/ProyectoDAW)
 * Hernández Mangas, Ernesto - [ÑamÑam Rute](https://github.com/ehm4/ProyectoFinalDAW)
 * Manso Pérez, Carlos - [CARloS](https://github.com/CarlosMansoPerez/ProyectoCARloS)
+* Martín González, César Julio - [MyTasks](https://github.com/cesarjulio19/MyTasks)
 * Martín Trujillo, Pablo - [OM Ilustraciones](https://github.com/PabloMartinTrujillo/OM-Ilustraciones)
 * Mena Viñas, Julián - [Dreative](https://github.com/julianmenav/proyecto-final)
 * Moreno Alvarez, Carlos - [CostaClima](https://github.com/carlosalvarez13/ProyectoFinal)

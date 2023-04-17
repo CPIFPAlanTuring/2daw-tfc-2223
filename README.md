@@ -42,8 +42,8 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Aguilar Benítez, Ángel - [Mundo MotoRSport](https://github.com/AngelAguben/MundoMotoRSport)
 * Ríos González, José Antonio - [ProyectoLeChatAffame](https://github.com/JoseAntonioRiosGonzalez/ProyectoLeChatAffame)
 * Urbano Ruz, Alfonso - [UrbanShop](https://github.com/aUrbano24/ProyectoFinal---2022-2023)
-* Bravo Romo, Alfonso Jesús - [AlfonsoJBR] (https://github.com/AlfonsoJBR)
-* Banderas Tomillo, Ián - [Proyecto] (https://github.com/ianbanderas/ProjectoDAW/tree/main)
+* Bravo Romo, Alfonso Jesús - [AlfonsoJBR](https://github.com/AlfonsoJBR)
+* Banderas Tomillo, Ián - [Proyecto](https://github.com/ianbanderas/ProjectoDAW/tree/main)
 
 
 ## 📝 Fechas a tener en cuenta

@@ -55,7 +55,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-Los días de las exposiciones serán el **los días 20 y 21 de junio de 2023**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+Los días de las exposiciones serán **los días 20 y 21 de junio de 2023**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 <hr>
 

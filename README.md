@@ -19,7 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Bautista Somosierra, Francisco Alberto [RETROHIFI](https://github.com/FranciscoBautistaSomo/proyectoFinal2DAW)
 * Bittan Graells, Daniel - [DizManga](https://github.com/DanyBittan/DizManga)
 * García Fernández, Matias José - [LiftUP](https://github.com/matgarfer499/ProyectoDAW)
-* Hernández Mangas, Ernesto - [ÑamÑam Rute](https://github.com/ehm4/ProyectoFinalDAW)
+* Hernández Mangas, Ernesto - [ÑamÑam Rute](https://github.com/ehm4/ProyectoFinalDawErnesto)
 * Manso Pérez, Carlos - [CARloS](https://github.com/CarlosMansoPerez/ProyectoCARloS)
 * Martín González, César Julio - [MyTasks](https://github.com/cesarjulio19/MyTasks)
 * Martín Trujillo, Pablo - [OM Ilustraciones](https://github.com/PabloMartinTrujillo/OM-Ilustraciones)

@@ -27,7 +27,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Moreno Alvarez, Carlos - [CostaClima](https://github.com/carlosalvarez13/ProyectoFinal)
 * Mostazo Gamez, Alejandro - [SportMeetUp](https://github.com/AlejandroMostazo/Proyecto_final_DAW)
 * Muñoz Valenzuela, Miguel Ángel - [AgroAssist](https://github.com/miguelmunval/ProyectoFinal)
-* Parrado Escribano, Juan Manuel - [ScullyonShop][(https://github.com/juanmaparrado/ScullyonBrand_TFG.git)]
+* Parrado Escribano, Juan Manuel - [ScullyonShop](https://github.com/juanmaparrado/ScullyonBrand_TFG.git)
 * Ruiz Pérez, Raquel - [Paws](https://github.com/RaquelRuiz4/ProyectoPAWS)
 * Salmerón Robles, Gonzalo - [CookMood](https://github.com/gonzalosalmeron/cookmood)
 * Sánchez Sánchez, María Eugenia - [TravelFree](https://github.com/mariasnchez/travelFree)

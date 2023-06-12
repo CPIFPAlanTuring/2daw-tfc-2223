@@ -102,7 +102,7 @@ Los días de las exposiciones serán **los días 20 y 21 de junio de 2023**. La 
 * 9:15h [Ríos González, José Antonio ]()
 
 
-<img height="32px" src="https://www.murciaeduca.es/cpfontes/sitio/upload/banners/EU_flagErasmus.jpg">
+<img height="32px" src="https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1371551642256&ssbinary=true">
 <img height="32px" src="https://static.wixstatic.com/media/fd3de2_7a75c5a8ae22452b97679e70ce3a539a~mv2.jpg/v1/fill/w_640,h_490,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fd3de2_7a75c5a8ae22452b97679e70ce3a539a~mv2.jpg">
 
 * 9:30h [Bittan Graells, Daniel]()
@@ -117,7 +117,7 @@ Los días de las exposiciones serán **los días 20 y 21 de junio de 2023**. La 
 
 <hr>
 
-<img height="32px" src="https://www.murciaeduca.es/cpfontes/sitio/upload/banners/EU_flagErasmus.jpg">
+<img height="32px" src="https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1371551642256&ssbinary=true">
 <img height="32px" src="https://logowik.com/content/uploads/images/setubal-municipio-participado6590.logowik.com.webp">
 
 

@@ -56,18 +56,23 @@ Los días de las exposiciones serán **los días 20 y 21 de junio de 2023**. La 
 
 <hr>
 
-### :calendar: por determinar, día 20 de junio de 2023
+### :calendar: martes 20 de junio de 2023
 
+<img height="46px" src="https://1000marcas.net/wp-content/uploads/2021/06/Accenture-logo.png">
 
+* 9:15h [Aguilar Benítez, Ángel ]()
+* 9:30h [Almellones Fernández, Álvaro]()
+* 9:45h [Bravo Romo, Alfonso Jesús]()
 
-* ...
+<img height="32px" src="https://aecconsultoras.com/wp-content/uploads/2020/01/logo-asociados-viewnext.jpg">
 
+* 10:00h [Bautista Somosierra, Francisco Alberto]()
+* 10:15h [Sánchez González, Hugo]()
+* 10:30h [Vargas García, Juan Antonio]()
 
-### :calendar: por determinar,  día 21 de junio de 2023
+<img height="32px" src="https://summa.io/wp-content/uploads/2015/03/summa-logo-black1.png">
 
-* ...
-
-
+* 10:45h [Álvarez Moreno, Carlos]()
 
 <hr>
 
@@ -75,6 +80,58 @@ Los días de las exposiciones serán **los días 20 y 21 de junio de 2023**. La 
 
 <hr>
 
+<img height="32px" src="https://dhvtechnology.com/wp-content/uploads/2020/01/dhv-logo.png">
+
+* 11:30h [Hitos García, Ester]()
+* 11:45h [Parrado Escribano, Juan Manuel]()
+* 12:00h [Ruiz Pérez, Raquel]()
+
+<img height="32px" src="https://media.licdn.com/dms/image/C4D0BAQGBI3J90bpq1g/company-logo_200_200/0/1519884109143?e=2147483647&v=beta&t=DkP_5WVKc-FKO2B3drPuP5cSF214T_CZCrxODVuFg0s">
+
+* 12:15h [Manso Pérez, Carlos]()
+
+<img height="32px" src="https://www.opplus.es/images/logo@2x.png">
+
+* 12:30h [Muñoz Valenzuela, Miguel Ángel]()
+* 12:45h [Sánchez Rojas, Pablo]()
+
+### :calendar: miércoles 21 de junio de 2023
+
+<img height="46px" src="https://fp.iescampanillas.com/wp-content/uploads/2022/03/FPIC_Logo_single-e1648640356832.png">
+
+* 9:15h [Ríos González, José Antonio ]()
+
+
+<img height="32px" src="https://www.murciaeduca.es/cpfontes/sitio/upload/banners/EU_flagErasmus.jpg">
+<img height="32px" src="https://static.wixstatic.com/media/fd3de2_7a75c5a8ae22452b97679e70ce3a539a~mv2.jpg/v1/fill/w_640,h_490,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fd3de2_7a75c5a8ae22452b97679e70ce3a539a~mv2.jpg">
+
+* 9:30h [Bittan Graells, Daniel]()
+* 9:45h [García Fernández, Matías José]()
+* 10:00h [Mena Viñas, Julián]()
+* 10:15h [Salmerón Robles, Gonzalo José]()
+* 10:30h [Sánchez Sánchez, María Eugenia]()
+
+<hr>
+
+ 🥪 D E S C A N S O ☕
+
+<hr>
+
+<img height="32px" src="https://www.murciaeduca.es/cpfontes/sitio/upload/banners/EU_flagErasmus.jpg">
+<img height="32px" src="https://logowik.com/content/uploads/images/setubal-municipio-participado6590.logowik.com.webp">
+
+
+* 11:15h [Hernández Mangas, Ernesto]()
+* 11:30h [Martín Trujillo, Pablo]()
+* 11:45h [Mostazo Gámez, Alejandro]()
+* 12:00h [Urbano Ruz, Alfonso]()
+<hr>
+
+* 12:15h [Ián Banderas Tomillo]()
+* 12:30h [Calahorro Jiménez, Miguel]()
+* 12:45h [Gutiérrez Castro, Francisco José]()
+* 13:00h [Martín González, Cesar Julio]()
+* 13:15h [Villena Gil, Juan David]()
 
 
 <hr>

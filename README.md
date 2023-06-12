@@ -130,8 +130,9 @@ Los días de las exposiciones serán **los días 20 y 21 de junio de 2023**. La 
 * 12:15h [Ián Banderas Tomillo]()
 * 12:30h [Calahorro Jiménez, Miguel]()
 * 12:45h [Gutiérrez Castro, Francisco José]()
-* 13:00h [Martín González, Cesar Julio]()
-* 13:15h [Villena Gil, Juan David]()
+* 13:00h [Ruiz Jiménez, Antonio]()
+* 13:15h [Martín González, Cesar Julio]()
+* 13:30h [Villena Gil, Juan David]()
 
 
 <hr>

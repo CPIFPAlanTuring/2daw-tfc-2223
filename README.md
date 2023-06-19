@@ -35,7 +35,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Vargas García, Juan Antonio - [TankoMarks](https://github.com/juanantoniovargar/TankoMarks)
 * Hitos García, Esther - [SalonActualUnisex](https://github.com/hitos-esther/SalonActualUnisex)
 * Sánchez González, Hugo - [GoMovie!](https://github.com/hugosanchezg/proyectoFinalDAW)
-* Sánchez Rojas, Pablo - [GamesNow](https://github.com/psanroj268/GamesNow)
+* Sánchez Rojas, Pablo - [GamesNow](https://github.com/psanroj268/GamesNow2)
 * Aguilar Benítez, Ángel - [Mundo MotoRSport](https://github.com/AngelAguben/MundoMotoRSport)
 * Ríos González, José Antonio - [ProyectoLeChatAffame](https://github.com/JoseAntonioRiosGonzalez/ProyectoLeChatAffame)
 * Urbano Ruz, Alfonso - [UrbanShop](https://github.com/aUrbano24/ProyectoFinal---2022-2023)

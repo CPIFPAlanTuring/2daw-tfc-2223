@@ -38,7 +38,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Sánchez Rojas, Pablo - [GamesNow](https://github.com/psanroj268/GamesNow2)
 * Aguilar Benítez, Ángel - [Mundo MotoRSport](https://github.com/AngelAguben/MundoMotoRSport)
 * Ríos González, José Antonio - [ProyectoLeChatAffame](https://github.com/JoseAntonioRiosGonzalez/ProyectoLeChatAffame)
-* Urbano Ruz, Alfonso - [UrbanFight](https://github.com/aUrbano24/ProyectoFinal---2022-2023](https://github.com/aUrbano24/ProyectoFinal-22-23-UrbanFight)
+* Urbano Ruz, Alfonso - [UrbanFight](https://github.com/aUrbano24/ProyectoFinal-22-23-UrbanFight)
 * Bravo Romo, Alfonso Jesús - [AlfonsoJBR](https://github.com/AlfonsoJBR)
 * Banderas Tomillo, Ián - [Proyecto](https://github.com/ianbanderas/ProjectoDAW/tree/main)
 
